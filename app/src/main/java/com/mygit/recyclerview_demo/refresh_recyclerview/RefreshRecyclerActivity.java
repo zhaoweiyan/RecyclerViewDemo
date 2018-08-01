@@ -74,3 +74,4 @@ public class RefreshRecyclerActivity extends Activity implements PullToRefreshLa
         refresh_recycler.Finish();
     }
 }
+
